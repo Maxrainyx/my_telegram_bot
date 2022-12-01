@@ -1,9 +1,9 @@
 # токен telegram-бота
-TOKEN = "5360771177:AAHuCKCdRqVqYMo8F8a1KhmyxPzSnlThXmo"
+TOKEN = "Token for telegram"
 
 # токен для API
 header = {
-  "apikey": "zMckthfs1ogbryQgn266dHHmFNuCqX3v"
+  "apikey": "api key for currencies"
 }
 
 # словарь доступных пользователю валют
